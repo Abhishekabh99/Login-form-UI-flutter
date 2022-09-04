@@ -12,7 +12,8 @@ Below is Sample Preview
 Second Preview When You Click On Continue
 
 
-![Screenshot 2](https://user-images.githubusercontent.com/88980729/188312665-5eb8ada7-276e-43d8-9008-94978fa5ef5e.png)
+
+![Screenshot 2](https://user-images.githubusercontent.com/88980729/188312782-59bc1b02-d895-4f07-96aa-2ba98fc1ec66.png)
 
 
 
