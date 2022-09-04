@@ -6,7 +6,8 @@ Below is Sample Preview
 
 
 
-![screenshot 1](https://user-images.githubusercontent.com/88980729/188312641-8cb57532-5ecb-4371-8e66-271339d242ec.png)
+![screenshot 1](https://user-images.githubusercontent.com/88980729/188312811-a02bc3d4-8e85-45bb-a28e-e2716a6e459e.png)
+
 
 
 Second Preview When You Click On Continue
