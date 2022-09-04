@@ -1,3 +1,33 @@
+Very basic Register Form Beautifull UI Design(Responsive For Web, Phone & Tablet All) Using Flutter Declerative manner Material UI based Dart Lnaguage
+
+
+
+Below is Sample Preview
+
+
+
+![screenshot 1](https://user-images.githubusercontent.com/88980729/188312641-8cb57532-5ecb-4371-8e66-271339d242ec.png)
+
+
+Second Preview When You Click On Continue
+
+
+![Screenshot 2](https://user-images.githubusercontent.com/88980729/188312665-5eb8ada7-276e-43d8-9008-94978fa5ef5e.png)
+
+
+
+
+To run projecr make sure you run command ->( Flutter pub get ) and then (Flutter Run)
+
+
+
+Any Contributions are Welcomed!
+
+This UI is Fully Responsive for any phone tablet or Desktop 
+
+
+
+
 # uidesign2
 
 A new Flutter project.
